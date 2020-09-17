@@ -1,0 +1,11 @@
+Introduction/business problem
+
+A car manifacturer based in seattle in looking to improve or include certain safty features
+in its vehicles and wants to look at the factors and conditions particular to the city that constibute to 
+collisions. 
+
+Historical collision data collected in the city could be of great use here as
+understanding what factors are the major constributers in the severity of accidents 
+would provide a starting point in determining which features need to be included or improved.
+This would help to reduce road deaths, property damage and costs for the city, as well as
+improving the car manifacturer image.
