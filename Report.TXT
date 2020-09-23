@@ -1,11 +1,25 @@
-Introduction/business problem
+Introduction/business problem(Preliminary)
 
-A car manifacturer based in seattle in looking to improve or include certain safty features
+A car manifacturer CarX based in seattle in looking to improve or include certain safty features
 in its vehicles and wants to look at the factors and conditions particular to the city that constibute to 
 collisions. 
 
-Historical collision data collected in the city could be of great use here as
+Historical collision data collected in Seattle city could be of great use here as
 understanding what factors are the major constributers in the severity of accidents 
-would provide a starting point in determining which features need to be included or improved.
-This would help to reduce road deaths, property damage and costs for the city, as well as
-improving the car manifacturer image.
+would provide a starting point in determining which features of its vehicles that need to be included or improved.
+This would help to reduce road deaths, property damage and costs for the city and individuals, as well as
+improving the car manifacturer's standing.
+
+
+Data Section(Preliminary)
+
+The data in question is collisions incidents in Seattle from 2004 onwards, all manner of collisions are included suchas vehicle, pedestrian 
+and bicycle collisions. Each collision is given a severity rating based on whether there was injury during the collision or 
+just or damage to vehicles/property. There are a number of other factors which influence the severity of the collision like number of people involved
+the weather conditions at the time and the type of collision. 
+
+In order to reach to goal of determining what safety features need to be improved upon, factors or features in the dataset that have the biggest
+contribution to accident severity will have to be identified, not all of these factors will be of applicable to improving safety standards but 
+some may be a good a good idication of where CarX needs to focus its efforts. In addition, not all of the data in the dataset will be especially 
+useful, the collisions that do not include vehicles will not be used.
+
