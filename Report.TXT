@@ -1,25 +1,21 @@
-Introduction/business problem(Preliminary)
-
-A car manifacturer CarX based in seattle in looking to improve or include certain safty features
-in its vehicles and wants to look at the factors and conditions particular to the city that constibute to 
-collisions. 
-
-Historical collision data collected in Seattle city could be of great use here as
-understanding what factors are the major constributers in the severity of accidents 
-would provide a starting point in determining which features of its vehicles that need to be included or improved.
-This would help to reduce road deaths, property damage and costs for the city and individuals, as well as
-improving the car manifacturer's standing.
+Introduction/business problem section(Preliminary)
+A existing coffee company Coffee Inc is looking to establish an number of coffee shops in the city 
+of Seattle, Coffee Inc is looking to find out which neighborhoods are suitable to for setting up a coffee 
+shops, those being neighborhoods that are have a relatively high number of venues that sell food and beverages 
+ie Neighborhoods that have established food and beverage districts, but have relatively low number of 
+coffee shops in those neigborhoods. Finding neighborhoods that meet these requirements will provide a good
+environment to establish coffee shops without being subjected to excessive competition which could 
+significantly increase the chance of failure of the venture, especially in to early stages of development.
 
 
 Data Section(Preliminary)
+The list of neighborhoods will be wrangled from a wikipedia page outlining all the neighborhoods in Seattle.
+The latitude and longitude coordinates for each neighborhood will be determined with either a python package or 
+an external website. Location data from the foursquare platform will be used to retrieve a certain number of venues in 
+each neighborhood, venues such as restaurants, pubs, nightclubs, department stores, parks etc..
 
-The data in question is collisions incidents in Seattle from 2004 onwards, all manner of collisions are included suchas vehicle, pedestrian 
-and bicycle collisions. Each collision is given a severity rating based on whether there was injury during the collision or 
-just or damage to vehicles/property. There are a number of other factors which influence the severity of the collision like number of people involved
-the weather conditions at the time and the type of collision. 
-
-In order to reach to goal of determining what safety features need to be improved upon, factors or features in the dataset that have the biggest
-contribution to accident severity will have to be identified, not all of these factors will be of applicable to improving safety standards but 
-some may be a good a good idication of where CarX needs to focus its efforts. In addition, not all of the data in the dataset will be especially 
-useful, the collisions that do not include vehicles will not be used.
+Once the venue data has been retrieved, the venues that are most commonly occuring in each neighborhood can be determined.
+Once this has been determined, it will possible to identify which neighborhoods have a lot of venues that sell food and beverages 
+such as e.g bars, restaurants, deli's etc. and also which do not have a lot of coffee shops venues. These neighborhoods
+will be the targeted areas when finding location to set up shops.
 
