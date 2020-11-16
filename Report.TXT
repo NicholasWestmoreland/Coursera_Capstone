@@ -3,9 +3,11 @@ A existing coffee company Coffee Inc is looking to establish an number of coffee
 of Seattle, Coffee Inc is looking to find out which neighborhoods are suitable to for setting up a coffee 
 shops, those being neighborhoods that are have a relatively high number of venues that sell food and beverages 
 ie Neighborhoods that have established food and beverage districts, but have relatively low number of 
-coffee shops in those neigborhoods. Finding neighborhoods that meet these requirements will provide a good
-environment to establish coffee shops without being subjected to excessive competition which could 
-significantly increase the chance of failure of the venture, especially in to early stages of development.
+coffee shops in those neigborhoods. 
+
+Finding neighborhoods that meet these requirements will provide a good environment to establish coffee shops 
+without being subjected to excessive competition which could significantly increase the chance of failure of 
+the venture, especially in to early stages of development.
 
 
 Data Section(Preliminary)
@@ -17,5 +19,5 @@ each neighborhood, venues such as restaurants, pubs, nightclubs, department stor
 Once the venue data has been retrieved, the venues that are most commonly occuring in each neighborhood can be determined.
 Once this has been determined, it will possible to identify which neighborhoods have a lot of venues that sell food and beverages 
 such as e.g bars, restaurants, deli's etc. and also which do not have a lot of coffee shops venues. These neighborhoods
-will be the targeted areas when finding location to set up shops.
+will be the targeted areas to focus efforts in finding locations to set up shops.
 
