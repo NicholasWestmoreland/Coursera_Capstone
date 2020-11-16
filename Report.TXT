@@ -1,11 +1,11 @@
 Introduction/business problem section(Preliminary)
-A existing coffee company Coffee Inc is looking to establish an number of coffee shops in the city 
-of Seattle, Coffee Inc is looking to find out which neighborhoods are suitable to for setting up a coffee 
+A existing American coffee company Coffee Inc is looking to establish an number of coffee shops in the city 
+of Seattle, Coffee Inc is looking to find out which neighborhoods are suitable for setting up a coffee 
 shops, those being neighborhoods that are have a relatively high number of venues that sell food and beverages 
 ie Neighborhoods that have established food and beverage districts, but have relatively low number of 
 coffee shops in those neigborhoods. 
 
-Finding neighborhoods that meet these requirements will provide a good environment to establish coffee shops 
+Finding neighborhoods that meet these requirements will provide a good environment to establish coffee shops
 without being subjected to excessive competition which could significantly increase the chance of failure of 
 the venture, especially in to early stages of development.
 
